@@ -10,3 +10,6 @@ Pesan : Semoga tahun depan negara api damai
 
 Nama : Avatar Faang
 Pesan : Gass Kaos Hacktoberfest se Lusin
+
+Nama : Supra
+Pesan : Semoga tahun 2023 dari supra 125 jadi mobil supra
